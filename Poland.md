@@ -14,4 +14,5 @@ Checklist after joining a new company:
 5. Tax (PIT-2, PIT-11, PIT-32) & Joint Tax declaration with spouse/partner
 6. Time Sheets/Leave Management/Payslips download
 7. CWP reporting
+
 NOTE: Most of the companies have internal ticketing portals for the above.
