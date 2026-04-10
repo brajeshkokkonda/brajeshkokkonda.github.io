@@ -5,7 +5,7 @@
    - React/Angular
 ### Back End (API)
    - Java 25
-   - Spring Boot Microservices, Spring Data JPA (Hibernate), Spring Security, OpenAPI/Swagger, 
+   - Spring Boot Microservices, Spring Data JPA (Hibernate), Spring Security (OAuth2, JWT), OpenAPI/Swagger, Spring Cloud, Spring AI
    - DB: SQL (MSSQL/PostgreSQL/MySQL), NOSQL (MongoDB/Cassandra/DynamoDB), Graph DB(Neo4J), Redis Cache, Cloud Cache
    - Event Driven Architecture: Apache Kafka, gRPC, MQ
    - Unit Testing: JUnit, Mockito, TestContainers (unit/functional/integration), TDD/BDD
